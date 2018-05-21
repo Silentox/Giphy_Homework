@@ -1,0 +1,39 @@
+body {
+  background-image: url('https://ivo.holdings/thehidden/wp-content/uploads/sites/6/2017/12/Elegant_Background-19.jpg');
+  width: 100%;
+  margin-top:50px;
+}
+button {
+  padding: 0, 2%;
+  margin: 0, 2%;
+}
+
+
+#mainContainer{
+  max-width: 75%;
+  width:75%;
+  overflow:hidden;
+  margin:0px;
+  display:inline-block;
+}
+.btn-primary {
+
+  font-size: 125%;
+  font-weight: bold;
+  display: inline-block;
+  float: left;
+
+} 
+
+.sideContainer{
+position: fixed;
+  top:0px;
+  right:0px;
+
+}
+
+#images {
+  padding-bottom: 3%;
+  clear: both;
+  display:inline-block;
+}
